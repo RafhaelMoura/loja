@@ -1,0 +1,5 @@
+1- descompacte o arquivo loja.zip dentro htdocs do servidor
+2- acesse o PhpMyAdmin e crie uma base de dados com o nome 'loja'
+3- rode na base criada o arquivo bd.sql que está na raiz deste Projeto
+4- configure o arquivo adm/conexao.php de acordo com os dados do Servidor
+5- acesse o projeto pelo navegador: http://localhost/loja
