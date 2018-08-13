@@ -71,6 +71,8 @@ Hoje, além de ser referência, a clínica JAPP tem a satisfação de 100% de qu
       <footer>
         <p>&copy; Loja 2018</p>
       </footer>
-    </div> <!-- /container -->
+    </div> <!-- /container --> 
+
+    
 
 
